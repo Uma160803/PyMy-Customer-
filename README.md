@@ -14,7 +14,7 @@ Dataset in mysql
 - <a href="https://github.com/Uma160803/PyMy-Customer-/blob/main/mysql%20customers.sql">Dataset</a>
 ## view customer
 View Customer feature is to enable users to retrieve and view specific customer details from a relational database using a simple and secure query. This functionality ensures that users can easily access relevant customer information, which is crucial for tasks such as verifying customer data, managing relationships, and making data-driven decisions. The system ensures that the information is fetched securely by using parameterized queries to prevent security vulnerabilities like SQL injection.
-- <a href="https://github.com/Uma160803/PyMy-Customer-/blob/main/View%20customer.ipynb">View customers</a>
+- <a href="https://github.com/Uma160803/PyMy-Customer-/blob/main/View%20customeR">View customers</a>
 ## Update customer
 The Update Customer feature lets users securely update customer information in the database, like phone numbers or emails. It ensures data is updated accurately and safely by using secure methods to prevent security issues. This feature is important for keeping customer records current and reliable for better communication and service.
 - <a href="https://github.com/Uma160803/PyMy-Customer-/blob/main/update%20customer.ipynb"> Update customers</a>
