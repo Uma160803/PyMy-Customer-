@@ -10,7 +10,7 @@ The objective of PyMyCustomer is to create a user-friendly, command-line interfa
 ## Data set
 Dataset in excel
 - <a href="https://github.com/Uma160803/PyMy-Customer-/blob/main/customers%20data%20in%20excel%20form">Dataset</a>
-Dataset in mysql
+Dataset in mysql 
 - <a href="https://github.com/Uma160803/PyMy-Customer-/blob/main/mysql%20customers.sql">Dataset</a>
 ## view customer
 View Customer feature is to enable users to retrieve and view specific customer details from a relational database using a simple and secure query. This functionality ensures that users can easily access relevant customer information, which is crucial for tasks such as verifying customer data, managing relationships, and making data-driven decisions. The system ensures that the information is fetched securely by using parameterized queries to prevent security vulnerabilities like SQL injection.
